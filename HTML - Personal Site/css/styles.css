@@ -1,0 +1,20 @@
+body {
+  background-color: #e8ffff;
+  font: italic small-caps bold 16px/2 cursive;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 7px;
+  width: 5%;
+}
+
+h1 {
+  color: #66bfbf;
+}
+
+h3 {
+  color: #9d65c9;
+}
